@@ -1,8 +1,9 @@
-<center>
-		<footer>
-		
-		<p>CHMSC M-Learning Copyright 2013</p>
-			<!-- <p>Programmed by: John Kevin Lorayna BSIS 4-A</p> -->
-		</footer>
-</center>
+<style>
+	footer {
+		text-align: center !important;
+	}
+</style>
 
+<footer>
+	<p><strong>© 2023 South East Asian Institute of Technology, Inc. A project by Reginald S. Prudente</strong></p>
+</footer>
